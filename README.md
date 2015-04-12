@@ -1,7 +1,6 @@
-InstallVimGo
-=================================================================
-	自动安装golang 的`vim-go`插件。
-	Automation install `vim-go` plugin for golang.
+#InstallVimGo
+自动安装golang 的`vim-go`插件。
+Automation install `vim-go` plugin for golang.
 
 
 ##usage:
