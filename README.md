@@ -1,18 +1,16 @@
 #InstallVimGo
-自动安装golang 的vim-go插件。
-automation install vim-go plugin for golan.
+		自动安装golang 的'vim-goi'插件。
+		automation install i'vim-go' plugin for golang.
 
 
 ##usage:
-	'''bash_shell
 	git clone https://github.com/aimin/InstallvimGo.git InstallVimGo
 	cd InstallVimGo
 	./InstallVimGo.sh
-	'''
 	
 	
 ##test:
-	>vim InstallVimGo/235.go
+	vim InstallVimGo/235.go
 
 	
 
